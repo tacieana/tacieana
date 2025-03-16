@@ -1,4 +1,4 @@
-# Hey there! I'm Taciana 🦋‍🌸
+# Hey there! I'm Taciana 🌷
 
 **Software Engineer | Java Enthusiast | Problem Solver**  
 
