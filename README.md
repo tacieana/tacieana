@@ -2,15 +2,26 @@
 
 **Software Engineer | Java Enthusiast | Problem Solver**  
 
-I love **writing clean, efficient, and scalable code**—whether it's designing robust backend architectures, optimizing performance, or diving into **Design Patterns** just for fun. I have a special interest in **high-performance systems, distributed architectures, and problem-solving** (yes, LeetCode challenges included!).  
+I'm a Software Engineer who loves solving challenging problems and building cool stuff with Java—from sleek backend systems to elegant, scalable solutions. I'm obsessed with clean, maintainable code, and you'll often find me deep-diving into Design Patterns, performance tuning, or cracking algorithm challenges just for fun!
+
+
+### ✨ Stuff I'm into:
+- ☕ Java and Quarkus – my go-to combo for high-performance apps.
+- ⚡ Exploring Microservices and event-driven architectures.
+- 🧩 Playing with Design Patterns to build cleaner, smarter solutions.
+- 📚 Continuously sharpening my coding skills with LeetCode, HackerRank, and good old-fashioned algorithmic puzzles.
+
 
 ### 🔍 What you'll find here:  
-- ⚡ Hands-on projects with **Design Patterns and Software Architecture**  
+- ⚡ Hands-on projects 
 - 🔗 Experiments with **Java, Quarkus, Angular, and more**  
-- 📡 Playing around with **event-driven systems, messaging queues, and scalable architectures**  
 - 🛠️ A bit of **DevOps**, a lot of **system design**, and endless curiosity for how things work under the hood  
 
-### 🌱 Currently exploring:  
-I'm **diving into blockchain development**, understanding how it differs from traditional web programming, and exploring its real-world applications.  
 
-📬 **Let’s connect!** Feel free to explore my repos and reach out. 🚀  
+### 🌱 Currently exploring:  
+- 🎯 Deepening my expertise in Spring (coming from a Quarkus background).
+- ⛓️ Exploring blockchain development and how it differs from traditional web programming.
+- 🔗 Getting comfortable with CI/CD pipelines and cloud integrations.
+
+
+📬 **Let’s connect!** Feel free to check out my projects and repositories—I'm always open to feedback, ideas, or just a friendly hello!
