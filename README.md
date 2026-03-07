@@ -9,7 +9,7 @@ I'm a Software Engineer who loves solving challenging problems and building cool
 - ☕ Java and Quarkus – my go-to combo for high-performance apps.
 - ⚡ Exploring Microservices and event-driven architectures.
 - 🧩 Playing with Design Patterns to build cleaner, smarter solutions.
-- 📚 Continuously sharpening my coding skills with LeetCode and good old-fashioned algorithmic puzzles.
+- 📚 Continuously sharpening my skills.
 
 
 ### 🔍 What you'll find here:  
